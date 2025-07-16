@@ -1,15 +1,16 @@
-# options specified here will apply to all posts in this folder
-sidebar: false
-
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
-freeze: true
-
-# Enable banner style title blocks
-title-block-banner: true
+sidebar: false               # options specified here will apply to all posts in this folder
+freeze: true                 # freeze computational output
+title-block-banner: true     # Enable banner style title blocks
 
 format:
   html:
+    other-links:
+      - text: Twitter
+        icon: twitter
+        href: https://twitter.com/gyanantaran
+      - text: All Posts
+        icon: home
+        href: /content/Blog/
     comments:
       hypothesis: true
       giscus:
