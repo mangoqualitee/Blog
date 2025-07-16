@@ -1,0 +1,41 @@
+---
+title: Note Taking
+date: 2025-05-23
+---
+
+I wished when I was in 5th grade that all the heavy books in my bag would vanish. I wished when I was in 2nd year of College that all of my pdfs would become a physical book. I lost energy, time in this conflict till I had no thoughts on this. Momentarilly I am flowing with the digital.
+
+> Your brain is for having ideas, not storing them – David Allen (from Bookmarks::quotes)
+
+I want [three-column] note-taking method. First column: Live Lecture Notes. Second column: Pre (or Post) Lecture Review Notes, and Live Remarks. Third column: Actionable Tasks, Live (or Review) Questions.
+
+Something similar to above: I want Logging with todos, I want un-polished Notes, and then I want insights and implications in a [resource].
+
+I need to be able to quickly give a minute-to-minute log of what I was doing throughout the day, week, month. Like org-mode-agenda. I had a two format (long log, groupby time log) excel sheet for this once.
+
+Like the multi-timer app.
+
+# Previous Attempts at Building Knowledge Base and Blogs
+
+1. Nueral Network Training is Fractal
+2. The compilers guy mcguielle
+3. I admire LessWrong's website, it is the zen of knowledge bases.
+4. Neeldhara Misra
+
+Add pictures
+
+# Quarto is nice
+
+Non-combinatorial components in quarto
+Rude maintainer and faq helper
+Writing my own markdown format and code my publishing converter
+
+# Org mode
+
+Learn org mode because I was thinking of making my own format.
+
+# Meta
+
+::: {.callout-important}
+# LessWrong - The Zettelekasten Method [§](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
+:::
