@@ -6,7 +6,7 @@ listing:
   contents: posts
   feed: true
 
-sidebar: false
+sidebar: blog
 ---
 
 ::: {.column-margin}
