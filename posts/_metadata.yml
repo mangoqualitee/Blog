@@ -9,7 +9,7 @@ format:
         icon: twitter
         href: https://twitter.com/gyanantaran
       - text: All Posts
-        icon: home
+        icon: house
         href: /content/Blog/
     comments:
       hypothesis: true
