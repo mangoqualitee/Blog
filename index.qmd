@@ -1,16 +1,20 @@
 ---
-title: "Blog"
-title-block-banner: media/layers-of-abstraction.jpeg
+title: "Posts"
+title-block-banner: layers-of-abstraction.webp
+
+format:
+  html:
+    comments: false
 
 listing:
-  contents: posts
+  contents: "./*/index.qmd"
   feed: true
 
-sidebar: blog
+sidebar: posts
 ---
 
 ::: {.column-margin}
-![Profile](media/profile.jpg)
+![](profile.webp){height=400px}
 
 This blog is intended to be a place to share ideas and results that are too weird, incomplete, or off-topic to turn into an academic paper, but that I think may be important. Let me know what you think! Contact links on the bottom.
 :::

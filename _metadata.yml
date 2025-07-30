@@ -1,5 +1,5 @@
-sidebar: false               # options specified here will apply to all posts in this folder
 freeze: true                 # freeze computational output
+sidebar: false               # options specified here will apply to all posts in this folder
 title-block-banner: true     # Enable banner style title blocks
 
 format:
@@ -10,8 +10,11 @@ format:
         href: https://twitter.com/gyanantaran
       - text: All Posts
         icon: house
-        href: /content/Blog/
+        href: /posts/index.qmd
+      - text: RSS
+        icon: rss
+        href: /posts/index.xml
     comments:
       hypothesis: true
       giscus:
-        repo: mangoqualitee/Blog
+        repo: mangoqualitee/posts
